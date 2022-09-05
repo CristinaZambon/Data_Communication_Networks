@@ -1,4 +1,4 @@
-# Data_Communication_Networks
+# Data Communication Networks
 This repository contains all the programming assignments I solved for the course Data Communication Networks 
 during my exchange semester at Mississippi State University in Fall 2021. 
 
