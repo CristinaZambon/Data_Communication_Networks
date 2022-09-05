@@ -1,4 +1,4 @@
-# 1. Basic File Transfer Protocol
+# Basic File Transfer Protocol
 
 We are dealing with Unix sockets. The code must compile on Pluto. 
 
