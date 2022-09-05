@@ -1,4 +1,4 @@
-# Programming Assignment 1: Basic File Transfer Protocol
+# 1. Basic File Transfer Protocol
 
 We are dealing with Unix sockets. The code must compile on Pluto. 
 
